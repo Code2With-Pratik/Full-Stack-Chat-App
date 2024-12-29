@@ -4,7 +4,7 @@
 
 <h1 align="center">👉👉👀 This is  💬 Chatty👀👈👈</h1>
 
-Visit my site : https://full-stack-chat-app-9yh0.onrender.com/
+<h3 align="center"> Visit my site : https://full-stack-chat-app-9yh0.onrender.com/  </h3>
 
 ###
 
